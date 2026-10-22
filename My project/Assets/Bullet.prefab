@@ -4852,7 +4852,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7cb4738e9ec180649b13508237284217, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Bullet
-  damage: 10
+  damage: 264
   lifeTime: 2
   targetTag: Enemy
   ownerTag: Player
