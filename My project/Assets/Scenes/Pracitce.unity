@@ -400,6 +400,7 @@ GameObject:
   - component: {fileID: 867926160}
   - component: {fileID: 867926161}
   - component: {fileID: 867926162}
+  - component: {fileID: 867926163}
   m_Layer: 0
   m_Name: Tester
   m_TagString: Untagged
@@ -543,6 +544,18 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::BattleLog
   damages: 3f420f0090d003003f420f0020a10700
   criticalLine: 300000
+--- !u!114 &867926163
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 867926153}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54f899cce4a30324887c961af9092b98, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::FunctionPractice
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
